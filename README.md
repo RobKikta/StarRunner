@@ -13,6 +13,9 @@ extension cord.
 
 **StarRunner is portable, deployable, power friendly** 
 
+## Video Overview
+[A full video walkthrough](https://youtu.be/4D7YL5glOQo) is available on YouTube 
+
 ## How it works
 The Starlink home terminal is repackaged into a [Star-Mount Systems](https://star-mountsystems.com) Flat Mount enclosure.  The Flat Mount enclosure is 
 then mounted onto a Front Runner Wolf Pack Pro storage box that contains the Starlink router, an inverter, an transfer switch, and supporting wiring. 
