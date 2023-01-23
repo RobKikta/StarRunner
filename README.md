@@ -2,12 +2,19 @@
 ## Overview
 StarRunner is a fully self-contained SpaceX [Starlink](https://www.starlink.com) solution specifically designed for use with 
 [Storyteller Overland](https://storytelleroverland.com) Mode vans. StarRunner mounts directly to a [Front Runner](https://www.frontrunneroutfitters.com/en/us/)
-roof rack and can operate on 12VDC or 100 – 240VAC. When installed on a Storyteller van it can run directly from the available 12 “aux 1” supply available 
+roof rack and can operate on 12VDC or 100 – 240VAC. 
+
+![StarRunner](images/IMG_2123.jpeg)
+
+When installed on a Storyteller van it can run directly from the available 12 “aux 1” supply available 
 on the roof such that StarRunner can be installed and run without making any penetration to the van. When the van is parked in a location where Starlink 
 is obstructed, the StarRunner can be removed and operated from the 120VAC source available on the side of the van using nothing more than a standard 
 extension cord.
 
 **StarRunner is portable, deployable, power friendly** 
+
+## Video Overview
+[A full video walkthrough](https://youtu.be/4D7YL5glOQo) is available on YouTube 
 
 ## How it works
 The Starlink home terminal is repackaged into a [Star-Mount Systems](https://star-mountsystems.com) Flat Mount enclosure.  The Flat Mount enclosure is 
